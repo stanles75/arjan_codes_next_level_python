@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Misc folders/files
+01_type_annotations/
+02_next_level_classes/
+03_next_level_functions/
+04_concurrency/  
+05_iterators/  
+06_generators/  
+07_context_manager/
